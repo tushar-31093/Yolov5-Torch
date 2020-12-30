@@ -2,6 +2,7 @@
 Pytorch implementation of Yolov5 
 
 # Requirements
+Unzip all the compressed folder in the default work directory
 pip install -r requirements.txt
 
 But a little headsup, if you're on windows kindly install pytorch and it's dependencies prior to running the above command. 
